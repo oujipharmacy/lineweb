@@ -151,7 +151,8 @@ color:#333;
 }
 
 section.content img{
-max-width:100%;
+width: 100%;
+max-width:800px;
 height:auto;
 }
 
